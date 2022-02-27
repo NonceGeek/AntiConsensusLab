@@ -1,6 +1,6 @@
 # NonceGeekLab
 
-Do some Crypto Research.
+Research the interesting things in Crypto/Web3/Metaverse.
 
 - 0x01 RSS in Crypto@NonceGeekLab
   
